@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-\zippedData
 # C extensions
 *.so
 zipped/Data
@@ -10,6 +9,7 @@ zipped/Data
 *.zip
 *.db
 *.tsv
+zippedData/
 # Distribution / packaging
 .Python
 build/
