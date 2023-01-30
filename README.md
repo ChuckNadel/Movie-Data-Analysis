@@ -13,11 +13,27 @@ The Data we used was from IMDB and The Numbers. IMDB provided us with data from 
 ### What We Found
 The first thing we analyzed were which movie genres generated the most consistent profits. As shown on the graph below, we found that Animation Movies were profitable 73% of the time and only lost money at an 8% rate. Adventure and Science Fiction movies also generated profits at around 64% of the time. From these observations, we concluded that Microsoft should mainly focus on animated films.
 
+<p align="center">
+  <img src = Visualizations/ProfRateGenre.png width="750" height="250">
+</p>
+
 The second thing we looked at was the correlation between the number of IMDB ratings a movie recieved, and their profit. As shown in the graph below, they are have a relatively strong positive correlation, meaning that Microsoft should focus on generating buzz around their films, so that people talk about them, and then go out to see them. We also found a list of directors who were particularly great at generating lots of IMDB ratings, with the best one being Christopher Nolan, whose movies are always a great topic for conversation.
+
+<p align="center">
+  <img src = Visualizations/votesProfit.png width="750" height="250">
+</p>
 
 Another thing we looked at the effect of production budget on worldwide profit. As shown on the graph below, their is a strong positive correlation between the budget of a film, and the profit it generates. Therefore, we would suggest that if Microsoft decides to make movies, they should shoot to allocate at least 100 million dollars per film.
 
+<p align="center">
+  <img src = Visualizations/BudgetProfit.png width="750" height="250">
+</p>
+
 Lastly, we took what we knew from the graph above, and decided to look at which directors generated the highest profits with limited budget. The graph below is very similar to the last one, but we grouped the data by who directed the film, such that each point represents one director. The ones highlighted in blue are Pierre Coffin, Chris Renaud, and Kyle Balda, all of whom have succeeded in creating highly profitable movies with smaller budgets. Lucky for us, all three of them are well renowned directors of animated films. Therefore, we would suggest Microsoft pick one of three in order to create their animated films.
+
+<p align="center">
+  <img src = Visualizations/ProfBudDirector.png width="750" height="250">
+</p>
 
 ### Conclusion
 
